@@ -1,0 +1,21 @@
+body {
+  background: #f0dfa0;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  margin: 20px;
+}
+.index-description {
+  max-width: 50%;
+  margin: 0px auto;
+  padding: 10px;
+}
+a {
+  color: green;
+  margin: 15px 10px;
+}
+.contact-email {
+  color: blue;
+}
+img {
+  border-radius: 10px;
+}
